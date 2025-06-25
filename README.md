@@ -7,11 +7,7 @@
   - [Track Customers](https://github.com/phillip-122/URL)
 
 - <b>Reddit Data Visualizer</b>
-  - [Visualize Subreddit Information](https://github.com/phillip-122/URL)
- 
-- <b>Distance Calculator</b>
-  - [Calculate Distance](https://github.com/phillip-122/URL)
-
+  - [Visualize Subreddit Information](https://github.com/phillip-122/Reddit-Post-Analyzer/tree/main)
  
 
 <h2>🧱 Technology Used:</h2>
