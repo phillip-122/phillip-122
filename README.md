@@ -14,18 +14,27 @@
 
  
 
-<h2>🧱 Technology </h2>
+<h2>🧱 Technology Used:</h2>
 
 - <b>Languages</b>
   - Python
   - C/C++
 
 - <b>Libraries</b>
+  - OpenCV
+  - YOLO
+  - Supervision
+  - Pytesseract
   - Pandas
   - Numpy
   - MatPlotLib
+  - VADER Sentiment
+  - OpenPyXL
+  - WordCloud
+  - RapidFuzz
+  - Tabulate
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 More Information:</h2>
 
 - [linkedin](https://linkedin.com/in/phillip-ronin)
 - [Resume](https://drive.google.com/file/d/17T-AdKQInzCeLb_bgVzNXARER7Zfys13/view?usp=drive_link)
