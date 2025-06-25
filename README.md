@@ -1,4 +1,34 @@
-## Hi there 👋
+
+<h1>Hi, I'm Phillip!</h1>
+
+<h2>🖥️ Software Development Projects:</h2>
+
+- <b>Store Customer Tracker</b>
+  - [Track Customers](https://github.com/phillip-122/URL)
+
+- <b>Reddit Data Visualizer</b>
+  - [Visualize Subreddit Information](https://github.com/phillip-122/URL)
+ 
+- <b>Distance Calculator</b>
+  - [Calculate Distance](https://github.com/phillip-122/URL)
+
+ 
+
+<h2>🧱 Technology </h2>
+
+- <b>Languages</b>
+  - Python
+  - C/C++
+
+- <b>Libraries</b>
+  - Pandas
+  - Numpy
+  - MatPlotLib
+
+<h2> 🤳 Connect with me:</h2>
+
+- [linkedin](https://linkedin.com/in/phillip-ronin)
+- [Resume](https://drive.google.com/file/d/17T-AdKQInzCeLb_bgVzNXARER7Zfys13/view?usp=drive_link)
 
 <!--
 **phillip-122/phillip-122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +41,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...  
 - ⚡ Fun fact: ...
 -->
