@@ -18,7 +18,7 @@
 
 - <b>Libraries</b>
   - OpenCV
-  - YOLO
+  - YOLO11 (Ultralytics)
   - Supervision
   - Pytesseract
   - Pandas
