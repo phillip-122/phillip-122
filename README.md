@@ -3,8 +3,8 @@
 
 <h2>🖥️ Software Development Projects:</h2>
 
-- <b>Store Customer Tracker</b>
-  - [Track Customers](https://github.com/phillip-122/Store-Tracker/tree/main)
+- <b>Optometry Retail Store Analytics System</b>
+  - [Optometry Retail Store Analytics System](https://github.com/phillip-122/Store-Tracker/tree/main)
 
 - <b>Reddit Data Visualizer</b>
   - [Visualize Subreddit Information](https://github.com/phillip-122/Reddit-Post-Analyzer/tree/main)
