@@ -33,7 +33,7 @@
 <h2> 🤳 More Information:</h2>
 
 - [linkedin](https://linkedin.com/in/phillip-ronin)
-- [Resume](https://drive.google.com/file/d/17T-AdKQInzCeLb_bgVzNXARER7Zfys13/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1X-QvKVCoIvb0E6_UmYTS7UiXLn9y_CbC/view?usp=sharing)
 
 <!--
 **phillip-122/phillip-122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
